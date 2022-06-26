@@ -1,5 +1,5 @@
 title: 🥇 David Azcona's site
-url: "https://computing.dcu.ie/~dazcona/"
+url: "https://dazcona.github.io/"
 
 author: David Azcona
 author_title: Applied Scientist
@@ -39,7 +39,7 @@ navigation:
       link: /media.html
 
 ga_id: UA-110743398-1
-ga_domain: dcu.ie
+ga_domain: github.com
 
 highlighter: true
 markdown: kramdown
