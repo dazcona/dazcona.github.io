@@ -2,6 +2,16 @@
 title: Media
 layout: default
 ---
+
+# Industry
+
+|||
+|---|---|
+| **2022**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **In data science, uncertainty is one of the most challenging aspects** |
+|| *Media organism*: [Silicon Republic][siliconrepublic] |
+|| *Article*: [https://www.siliconrepublic.com/people/data-science-zalando-david-azcona](https://www.siliconrepublic.com/people/data-science-zalando-david-azcona) |
+| &nbsp; ||
+
 # Academics
 
 |||
@@ -34,9 +44,10 @@ layout: default
 |---|---|
 | **2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Futsal sides qualify for National finals. Interview with David Azcona, captain of the men’s side** |
 || *Media organism*: [College View](https://www.thecollegeview.com) |
-|| *Articles*: [https://www.thecollegeview.com/2019/02/06/futsal-sides-qualify-for-national-finals/](https://www.thecollegeview.com/2019/02/06/futsal-sides-qualify-for-national-finals/) |
+|| *Articles*: [https://www.thecollegeview.com/2019/02/06/futsal-sides-qualify-for-national-finals/](https://issuu.com/thecollegeview8/docs/the_college_view_issue_7/), page 21 |
 | &nbsp; ||
 
+[siliconrepublic]: https://www.siliconrepublic.com/
 [asu_now]: https://asunow.asu.edu/
 [state_press]: http://www.statepress.com/
 [brainstorm]: https://www.rte.ie/eile/brainstorm/

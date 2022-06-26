@@ -1,7 +1,7 @@
 .PHONY: site serve deploy clean
 
-USER = dazcona
-HOST = gateway.computing.dcu.ie
+USER = <username>
+HOST = <host>
 WWW_ROOT = public_html/
 WWW_EXCLUDE = files
 BUILDARGS =
@@ -14,7 +14,8 @@ serve:
 
 deploy: BUILDARGS=--config _config.yml,_config_deploy.yml
 deploy: clean site
-	rsync --compress --recursive --checksum --itemize-changes --delete --exclude=$(WWW_EXCLUDE) -e ssh _site/ $(USER)@$(HOST):$(WWW_ROOT)
+	# rsync --compress --recursive --checksum --itemize-changes --delete --exclude=$(WWW_EXCLUDE) -e ssh _site/ $(USER)@$(HOST):$(WWW_ROOT)
+	rsync --compress --recursive --checksum --itemize-changes --delete --exclude=$(WWW_EXCLUDE) _site/* docs/
 
 clean:
 	rm -rf _site
